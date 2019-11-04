@@ -9,3 +9,6 @@ ports:
 tasks:
 - init: echo 'init script' # runs during prebuild
   command: echo 'start script'
+vscode:
+  extensions:
+    - VisualStudioExptTeam.vscodeintellicode@1.2.0:ZVy7XFOZUd4m0FZb3PUFbA==
