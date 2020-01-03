@@ -11,4 +11,4 @@ tasks:
   command: echo 'start script'
 vscode:
   extensions:
-    - VisualStudioExptTeam.vscodeintellicode@1.2.0:ZVy7XFOZUd4m0FZb3PUFbA==
+    - VisualStudioExptTeam.vscodeintellicode@1.2.2:VyaPhtK5JDcrioOPwlZlsw==
